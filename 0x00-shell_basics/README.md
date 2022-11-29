@@ -42,3 +42,19 @@ Create a symbolic link to /bin/ls, named __ls__. The symbolic link should be cre
 
 Task 14. Copy HTML files
 Create a script that copies all the HTML files from the current working directory to the parent, but only copy files that did not exist in the parent f the working directory or were newer than the versions in the parent os the working directory
+
+Task 15. Let's move
+Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u
+
+Task 16. Clean Emacs
+Create a script that delete files in the current working directory that end with the character ~
+
+Task 17. Tree
+Create a script that creates the directory welcome/, welcome/to/ and welcome/to/school in the current directory
+
+Task 18. Life is a series of commas, not periods
+Write a command that lists all the files and directories of the current directory, separated by commas
+
+Task 19. File type: School
+Create a magiv file school.mgc that can be used with the command file to detect School data files. School data files always contain the string SCHOOL at the offset 0
+
