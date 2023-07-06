@@ -1,1 +1,1 @@
-learning about configuration management
+web stack debugging
